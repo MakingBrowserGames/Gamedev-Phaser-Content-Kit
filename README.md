@@ -1,5 +1,5 @@
-# Gamedev Phaser Content Kit
-
-Welcome to the Gamedev Phaser Content Kit, also known as Mobile Games Starter Kit or HTML5 Game Development with Phaser. This Content Kit contains resources on how to **start building games with Phaser**. You can use it to learn the topic yourself or teach it to others either by giving a conference talk or running a hands-on workshop.
-
-Visit the project's page at [end3r.github.io/Gamedev-Phaser-Content-Kit/](http://end3r.github.io/Gamedev-Phaser-Content-Kit/) for the detailed info and the list of avilable resources.
+# "Gaming Workshop" Content Kit  
+  
+Welcome to the ***"MBG Workshop",*** also known as [***Making Browser Games Starter Kits***](http://makingbrowsergames.com/starterkits/) or [***"Headless HTML5 Game Development" (HHGD)***](https://leanpub.com/hgd) using any of the Phaser Gaming Frameworks. This Kit contains resources for workshop leaders and participants to quickly **start building game prototypes.** You can use this Kit to teach yourself game construction, or teach these techniques to others attending "conference talks", dedicated "Workshops", [***"GameJams"***](https://en.wikipedia.org/wiki/Game_jam) (hosted online [***here***](https://itch.io/jams) or [***here***](http://www.indiegamejams.com/)) or simply as a "hands-on project" for computer club.  
+  
+Visit this project's home page at [***https://makingbrowsergames.com/hhgd/***](https://makingbrowsergames.com/hhgd/) for the detailed info and the list of more resources.
